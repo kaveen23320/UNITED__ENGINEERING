@@ -1,0 +1,21 @@
+{
+  "name": "united-engineering",
+  "version": "1.0.0",
+  "description": "A professional website for UNITED ENGINEERING, a metal fabrication workshop in Sri Lanka.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metal",
+    "fabrication",
+    "engineering",
+    "sri-lanka"
+  ],
+  "author": "UNITED ENGINEERING",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
